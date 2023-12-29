@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piotr Cho... form Bia.. Poland.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on help. I created a simple calculator for a mobile phone. Now I working a map.
+- 💞️ I’m looking to collaborate on help. I created a simple calculator for a mobile phone. Now I working, see last project.
 - 📫 How to reach me - simply write pio.cho.bia@gmail.com
 
 <!---
